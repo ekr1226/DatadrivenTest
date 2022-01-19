@@ -1,0 +1,3 @@
+2022-01-13 10:08:42,575 +0530 [main] DEBUG (BaseClass.java:43) - config file loading
+2022-01-13 10:08:42,579 +0530 [main] INFO  (BaseClass.java:51) - Config files loaded sucesfully
+2022-01-13 10:08:42,579 +0530 [main] DEBUG (BaseClass.java:63) - edge launched

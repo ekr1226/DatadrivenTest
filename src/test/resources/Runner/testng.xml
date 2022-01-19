@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="BaseTEST">
+  
+  <test thread-count="1" name="LoginTest">
+    <classes>
+      <class name="com.rao.testcases.BankManagerLogin"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="1" name="AddCustomerTest">
+    <classes>
+      <class name="com.rao.testcases.AddCustomerTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

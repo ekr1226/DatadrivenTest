@@ -1,0 +1,6 @@
+com\rao\testcases\BankManagerLogin.class
+com\rao\utilities\ExtentUtility.class
+com\rao\rough\TestProperties.class
+com\rao\utilities\ReadExcel.class
+com\rao\BaseClass\BaseClass.class
+com\rao\testcases\AddCustomerTest.class

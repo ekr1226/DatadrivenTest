@@ -1,0 +1,4 @@
+2022-01-17 14:48:56,196 +0530 [main] DEBUG (BaseClass.java:45) - config file loading
+2022-01-17 14:48:56,198 +0530 [main] INFO  (BaseClass.java:53) - Config files loaded sucesfully
+2022-01-17 14:48:56,199 +0530 [main] DEBUG (BaseClass.java:58) - Chrome launched
+2022-01-17 14:48:59,526 +0530 [main] DEBUG (BankManagerLogin.java:14) - Entered into method
