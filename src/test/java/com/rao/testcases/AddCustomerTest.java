@@ -39,14 +39,14 @@ public static WebDriverWait wait;
 		 
 		 //driver.switchTo().alert().accept();
 		  
-		 Thread.sleep(2000);
-			Alert alert = wait.until(ExpectedConditions.alertIsPresent());
-			System.out.println(alert);
-			Assert.assertTrue(alert.getText().contains(data.get("alerttext")));
-			alert.accept();
-			
-			Thread.sleep(2000);  
-		    
+			/*
+			 * Thread.sleep(2000); Alert alert =
+			 * wait.until(ExpectedConditions.alertIsPresent()); System.out.println(alert);
+			 * Assert.assertTrue(alert.getText().contains(data.get("alerttext")));
+			 * alert.accept();
+			 * 
+			 * Thread.sleep(2000);
+			 */    
 		
 	}
 	
