@@ -34,7 +34,7 @@ public static WebDriverWait wait;
 		  System.out.println(isElementPresent(By.cssSelector(OR.getProperty("PostalCode"))));
 		  
 		  driver.findElement(By.cssSelector(OR.getProperty("PostalCode"))).sendKeys(data.get("PostalCode"));
-		  Thread.sleep(5000); 
+		  Thread.sleep(2000); 
 		 driver.findElement(By.cssSelector(OR.getProperty("Submitbutton"))).click();
 		 
 		 //driver.switchTo().alert().accept();
